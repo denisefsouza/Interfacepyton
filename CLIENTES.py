@@ -4,7 +4,7 @@ janela = Tk()
 janela.geometry("330x250")
 janela.title("Formulário Cadastro Clientes")
 
-labelTitulo = Label(text = "CADASTRO CLIENTES")
+labelTitulo = Label(text = "CADASTRO DE CLIENTES")
 
 
 # Criação dos paineis
